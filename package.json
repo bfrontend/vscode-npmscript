@@ -3,7 +3,6 @@
   "name": "vscode-npmscript",
   "displayName": "vscode-npmscript",
   "version": "0.0.1",
-  "private": true,
   "packageManager": "pnpm@8.6.0",
   "description": "Run NPM scripts from the command palette",
   "author": "webxmsj <webxmsj@163.com>",
